@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giraldomauricio
 - 👀 I’m interested in hacking...
-- 🌱 I’m currently learning pentesting
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me mgiraldo@gmail.com
 
